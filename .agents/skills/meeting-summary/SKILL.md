@@ -10,4 +10,4 @@ metadata:
 ---
 # Meeting summary
 
-Summarize the notes provided by the user. Revision 1.
+Summarize the notes provided by the user. Revision 2.
